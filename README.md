@@ -4,3 +4,4 @@
 3. [Avoid SELECT * in large/hot queries](scripts/avoid_SELECT_all_large-hot_queries.sql)
 4. [Avoid functions on indexed columns in WHERE](scripts/avoid_functions_on_indexed_columns_in_WHERE.sql)
 5. [Optimize IN / OR conditions](scripts/optimize_IN_OR_conditions.sql)
+6. [Pagination: OFFSET vs seek method](scripts/pagination_OFFSET_vs_seek_method.sql)
