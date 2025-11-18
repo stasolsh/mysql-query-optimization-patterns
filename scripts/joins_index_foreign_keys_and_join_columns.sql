@@ -1,4 +1,4 @@
--- Examp0le schema:
+-- Example schema:
 
 CREATE TABLE users (
                        id BIGINT PRIMARY KEY,
