@@ -7,3 +7,4 @@
 6. [Pagination: OFFSET vs seek method](scripts/pagination_OFFSET_vs_seek_method.sql)
 7. [JOINs: index foreign keys and join columns](scripts/joins_index_foreign_keys_and_join_columns.sql)
 8. [GROUP BY / aggregation optimization](scripts/group_by_aggregation_optimization.sql)
+9. [Remove unused or redundant indexes](scripts/remove_unused_or_redundant_indexes.sql)
