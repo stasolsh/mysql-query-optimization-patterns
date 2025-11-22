@@ -12,3 +12,4 @@
 11. [Temporary tables & “Using temporary; Using filesort”](scripts/temporary_tables_using_temporary_using_filesort.sql)
 12. [Using STRAIGHT_JOIN when planner guesses wrong](scripts/using_STRAIGHT_JOIN_when_planner_guesses_wrong.sql)
 13. [IN (SELECT …) → JOIN (or EXISTS)](scripts/in_select_join_or_exists.sql)
+14. [NOT IN with NULLs → NOT EXISTS](scripts/not_in_with_nulls_not_exists.sql)
