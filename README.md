@@ -13,3 +13,4 @@
 12. [Using STRAIGHT_JOIN when planner guesses wrong](scripts/using_STRAIGHT_JOIN_when_planner_guesses_wrong.sql)
 13. [IN (SELECT …) → JOIN (or EXISTS)](scripts/in_select_join_or_exists.sql)
 14. [NOT IN with NULLs → NOT EXISTS](scripts/not_in_with_nulls_not_exists.sql)
+15. [DISTINCT used as a band-aid → better join / schema](scripts/distinct_used_as_band-aid_better_join_schema.sql)
