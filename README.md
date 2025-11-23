@@ -14,3 +14,4 @@
 13. [IN (SELECT …) → JOIN (or EXISTS)](scripts/in_select_join_or_exists.sql)
 14. [NOT IN with NULLs → NOT EXISTS](scripts/not_in_with_nulls_not_exists.sql)
 15. [DISTINCT used as a band-aid → better join / schema](scripts/distinct_used_as_band-aid_better_join_schema.sql)
+16. [Removing useless ORDER BY in subqueries](scripts/removing_useless_ORDER_BY_in_subqueries.sql)
