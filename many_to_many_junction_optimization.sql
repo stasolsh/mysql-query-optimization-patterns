@@ -1,5 +1,4 @@
 -- Schema:
-
 CREATE TABLE posts (
                        id BIGINT PRIMARY KEY,
                        title VARCHAR(255)
@@ -29,13 +28,11 @@ WHERE t.name = 'mysql';
 
 
 -- Better indexes:
-
 CREATE INDEX idx_tags_name ON tags(name);
 -- `post_tags` already has index on tag_id and PK(post_id,tag_id)
 
 -- For multiple tags (e.g., posts that have both tag A and tag B):
 -- Naive:
-
 SELECT DISTINCT p.*
 FROM posts p
          JOIN post_tags pt ON pt.post_id = p.id
@@ -43,7 +40,6 @@ FROM posts p
 WHERE t.name IN ('mysql', 'performance');
 
 -- Better approach:
-
 SELECT p.*
 FROM posts p
          JOIN post_tags pt1 ON pt1.post_id = p.id
