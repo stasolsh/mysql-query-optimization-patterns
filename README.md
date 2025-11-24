@@ -16,3 +16,4 @@
 15. [DISTINCT used as a band-aid → better join / schema](scripts/distinct_used_as_band-aid_better_join_schema.sql)
 16. [Removing useless ORDER BY in subqueries](scripts/removing_useless_ORDER_BY_in_subqueries.sql)
 17. [LIKE '%term%' → index-friendly search](scripts/like_term_index_friendly_search.sql)
+18. [Many-to-many junction optimization](scripts/many_to_many_junction_optimization.sql)
