@@ -18,3 +18,4 @@
 17. [LIKE '%term%' → index-friendly search](scripts/like_term_index_friendly_search.sql)
 18. [Many-to-many junction optimization](scripts/many_to_many_junction_optimization.sql)
 19. [HAVING vs WHERE](scripts/having_vs_where.sql)
+20. [Turning a big UPDATE into smaller batches](scripts/turning_big_update_into_smaller_batches.sql)
