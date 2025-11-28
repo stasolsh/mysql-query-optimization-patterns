@@ -12,7 +12,7 @@ ORDER BY o.created_at DESC
 -- Join many line items
 -- Aggregate
 -- Then sort + limit
---Better: isolate the join + aggregate in a derived table
+-- Better: isolate the join + aggregate in a derived table
 SELECT o.id, o.user_id, agg.total
 FROM orders o
          JOIN (
