@@ -22,3 +22,4 @@
 21. [Moving calculations out of the query](scripts/moving_calculations_out_of_the_query.sql)
 22. [Small summary / reporting table](scripts/small_summary_reporting_table.sql)
 23. [UNION vs UNION ALL](scripts/union_vs_union_all.sql)
+24. [Eliminating row explosion in JOINs](scripts/eliminating_row_explosion_in_joins.sql)
