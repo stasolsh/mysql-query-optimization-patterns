@@ -28,3 +28,5 @@
 
 ## References:
 1. Daniel Nichter Efficient MySQL Performance.Best Practices and Techniques. O'REILLY, 2022, 335 pages.
+2. Jesper Wisborg Krogh. MySQL 8 Query Performance Tuning: A Systematic Method for Improving Execution Speeds. Apress, 2020, 1002 pages.
+3.   
