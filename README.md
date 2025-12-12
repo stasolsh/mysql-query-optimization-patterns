@@ -26,5 +26,5 @@
 25. [Partitioning + partition pruning (for big time-series tables)](scripts/partitioning_partition_pruning.sql)
 26. [Pre-filter join input with a temp table](scripts/pre_filter_join_input_with_temp_table.sql)
 
-References:
-1.Daniel Nichter Efficient MySQL Performance.Best Practices and Techniques. O'REILLY, 2022, 335 pages.
+## References:
+1. Daniel Nichter Efficient MySQL Performance.Best Practices and Techniques. O'REILLY, 2022, 335 pages.
