@@ -27,7 +27,4 @@
 26. [Pre-filter join input with a temp table](scripts/pre_filter_join_input_with_temp_table.sql)
 
 References:
-<a id="1">[1]</a> 
-Daniel Nichter (2022). 
-Efficient MySQL Performance.Best Practices and Techniques 
-O'REILLY, 335 pages.
+1.Daniel Nichter Efficient MySQL Performance.Best Practices and Techniques. O'REILLY, 2022, 335 pages.
