@@ -27,6 +27,7 @@
 26. [Pre-filter join input with a temp table](scripts/pre_filter_join_input_with_temp_table.sql)
 27. [UNION ALL instead of OR on different indexed columns](scripts/union_all_instead_of_or.sql)
 28. [Avoid DATE() on indexed datetime columns](scripts/avoid_function_on_datetime_index.sql)
+29. [Composite index leftmost prefix rule](scripts/avoid_function_on_datetime_index.sql)
 
 ## References:
 1. Daniel Nichter Efficient MySQL Performance.Best Practices and Techniques. O'REILLY, 2022, 335 pages.
